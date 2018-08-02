@@ -1,0 +1,60 @@
+
+ @font-face{
+ 	font-family: "Palanquin";
+ 	src:url("palanquin-regular.ttf");
+ }
+
+ @font-face{
+ 	font-family: "Palanquin"
+ 	src: url(palanquin-bold.ttf);
+ 	font-weight: bold;
+ }
+
+body p {
+	font-family: "Palanquin"
+}
+
+}
+
+h1,
+.navbar-brand,
+.navbar-nav a {
+  font-family: 'Palanquin', serif;
+}
+
+
+
+.footer {
+	font-size: 9px;
+	position fixed;
+
+}
+
+
+
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 4px;
+	margin-right: 20%;
+	margin-left: 31%;
+}
+
+.gallery {
+	float: center;
+}
+
+
+.jumbotron ul, li {
+list-style-type: none;
+padding:0;
+
+}
+
+.imgcat {
+    width: 55%;
+    height: auto;
+}
+
+[type='button']{border-radius:4px; font-family: "Palanquin";}

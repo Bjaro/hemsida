@@ -1,0 +1,126 @@
+
+ @font-face{
+ 	font-family: "Palanquin";
+ 	src:url("palanquin-regular.ttf");
+ }
+
+ @font-face{
+ 	font-family: "Palanquin"
+ 	src: url("palanquin-bold.ttf");
+ 	font-weight: bold;
+ }
+
+ body, html {
+    font-family: "Palanquin", sans-serif;
+    padding: 0;
+    margin: 0;
+    padding-top: 0px;
+    height: 100%;
+    background-color: #B0C4DE;
+}
+
+
+
+.nav {
+	float: center;
+	text-align: center;
+	padding: 15px;
+	background: #9370DB;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.nav a {
+	text-decoration: none;
+	color: #D4F3E9;
+	padding-right: 25px;
+	padding-left: 25px;
+	
+}
+
+.nav a:hover {
+	color: #000;
+}
+
+.footer {
+	font-size: 9px;
+	position: fixed;
+
+}
+
+
+.maintext {
+
+	padding-left: 15%;
+	padding-right: 15%;
+
+}
+
+.col-sm-4 {
+	padding-top: 30px;
+}
+
+.col-sm-6 {
+	padding-top: 30px;
+}
+
+li {
+	padding-bottom: 10px;
+	font-size: 12px;
+}
+
+
+.buttoncont {
+
+	font-size: 12px!important;
+}
+
+button {
+	color: #9370DB;
+}
+
+.engflag {
+	float:right;
+	position: relative;
+	padding-left: 11%;
+}
+
+.name {
+	float: left;
+	display: inline-flex;
+	margin: 0;
+}
+.name p {
+ margin-top: 9px;
+ padding-left: 0;
+ color: #D4F3E9;
+ font-weight: bold;
+ font-size: 28px;
+ }
+
+.row {
+	margin-right: 20%;
+	margin-left: 31%;
+}
+
+.slideshow{
+	margin-right: 30%;
+	margin-left: 30%;
+	padding-top: 20px;
+}
+
+.left {
+	float: left;
+	position: fixed;
+	margin-right: 75%;
+	margin-left: 5%;
+	margin-top: 15%;
+}
+
+.right {
+	float: right;
+	position: fixed;
+	margin-left: 75%;
+	margin-right: 5%;
+	margin-top: 15%;
+}

@@ -1,0 +1,105 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>S*Bjaro's</title>
+    <link href="css/style.css" rel="stylesheet">
+   
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body style="background-color: #E7DFDD">
+    <nav class="navbar navbar-inverse navbar-static-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">S*Bjaro's</a>
+    </div>
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right" align="center">
+        <li> <a href="katter.html">Våra katter</a> </li>
+       <li> <a href="omoss.html">Om oss</a> </li>
+       <li> <a href="rasinfo.html">Rasinformation</a> </li>
+       <li> <a href="kontakt.html">Kontakt</a> </li>
+       <li> <a href="#"><img src="img/eng.png" height="20px"  style="margin-top:-3px;"> </a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="jumbotron">
+    <h3 align="center">Vilka är vi?</h3>
+        <p>Vi är en helt vanlig familj som bor i Sundsvall, som består av Roseanne, Daniella och André.<br><br>
+
+        Anledningen till att vi fick en till familjemedlem är på grund utav min dotters stora intresse för katter. När vi började och letade katt så upptäckte vi att Daniella är allergisk mot katter. Under en period så prövad vi andra djur, som fiskar och fåglar.<br><br>
+
+        Men hon ville ha något att kunna gosa med. När en klasskamrat till Daniella skaffade sig en sibirisk katt och berättade om att vissa allergiker tål denna katt så tänkte vi - Vi provar!<br><br>
+
+        Sagt och gjort - vi var först och besökte Eva Gunnarsson, där fick Daniella snusa och gosa med alla katter. Hon visade inga tecken, varken där eller hemma.<br><br>
+
+        Vi blev tända och helt betagna av rasen. Vilka katter!<br><br>
+
+        I samband med en kattutställning i Njurunda fick vi kontakt med Monica Byström som hade en kattkull på gång.<br><br>
+
+        När kattungarna sedan hade anlänt så valde vi Silvia (S*Kneph's Silver Fizz). Underbarare katt får man leta efter.<br><br>
+
+        Så den 14 januari 2005 fick vi tillökning i familjen - då kom Silvia hem till oss.</p>
+
+
+        </div>
+
+  </div>
+</div>
+  
+<div class="container">
+<div class="jumbotron col-md-6" align="center">
+
+<h3>
+Roseanne Forslund 
+</h3>
+
+<ul>
+  <li>Läst 3-årig naturvetenskap på Katrinelunds gymnasium</li>
+  <li>Avel och genetik - Ulrika olsson</li>
+  <li>Grundläggande näringslära - Jenni Pernklev Svensson och Anna Friberg </li>
+  <li>Kattens beteende - Susanne Hellman Holmström</li>
+  <li>Paw academy G1, G2 och G3 </li>
+  <li>Katt sex - Marie-Louise Almbjelke </li>
+  <li>Genetik - Dagny Dickens</li>
+  <li>Kattens sinnen och beteende - Matilda Eriksson </li>
+</ul>
+
+</div>
+
+<div class="jumbotron col-md-6" align="center">
+  
+  <h3>
+  Daniella Forslund
+  </h3>
+
+  <ul>
+    <li>Har läst djurvård vid Realgymnasiet</li>
+    <li>Katt sex - Marie-Louise Almbjelke</li>
+    <li>Kattens Beteende - Susanne Hellman Holmström</li>
+    <li>Genetik - Dagny Dickens</li>
+    <li>Kattens sinnen och beteenden - Matilda Eriksson</li>
+    Etologikurs Kolmårdens Djurpark</li>
+</ul>
+</div>
+
+</div>
+  <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.js"></script>
+  </body>
+</html>
